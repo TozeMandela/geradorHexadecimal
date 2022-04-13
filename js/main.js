@@ -26,7 +26,6 @@
         $div.innerHTML = '';
         $div.innerHTML = `#${array.join('')}`;
         $div.style.backgroundColor = `#${array.join('')}`;
-
     }
 
    function geradorHexadecimal(e){ 
